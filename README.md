@@ -37,7 +37,6 @@ Outputs are written to `output/` (created on first run).
 ## Run
 
 ```
-pip install -r requirements.txt
 python code/01_model_selection.py     
 python code/02_reconstruct.py         
 python code/03_shap_attribution.py    
